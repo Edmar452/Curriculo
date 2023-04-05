@@ -1,8 +1,8 @@
 # **Edmar A. Martins**
 
-# **Dados:**
+# Dados:
 
->**-Nome**: Edmar
+>**-Nome**: Edmar Augusto Martins
 
 >**-Idade**: 18
 
