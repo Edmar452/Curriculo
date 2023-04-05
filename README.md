@@ -1,5 +1,3 @@
-# **Edmar A. Martins**
-
 # Dados:
 
 >**-Nome**: Edmar Augusto Martins
@@ -8,4 +6,12 @@
 
 >**-Email**: Edmar.augusto.02@gmail.com
 
-----------------------------------------------
+# Experiencia
+>Logistica
+># Mateial de contruçao
+>- Genciamento de Notas
+>- Entrada de Mercadoria
+>- Atendimento ao cliente
+
+
+
